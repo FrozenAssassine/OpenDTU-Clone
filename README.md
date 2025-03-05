@@ -3,7 +3,7 @@
 </p>-->
 <h1 align="center">OpenDTU Frontend Clone</h1>
 <div align="center">
-     <a href="https://solardtu.example.com">
+     <a href="https://solar.frozenassassine.de/?ref=github">
          <img src="https://img.shields.io/badge/OpenDTU-Website-blue">
     </a>
     <img src="https://img.shields.io/github/stars/FrozenAssassine/opendtu_frontend_clone?style=flat">
